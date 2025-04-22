@@ -103,5 +103,5 @@ Frontend Developer | React & TypeScript Enthusiast
 ## 📬 Contact
 
 - Email: mikelhfzy@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/michael-anwer-071489283/)
+- LinkedIn: [Michael Anwar](https://www.linkedin.com/in/michael-anwer-071489283/)
 
