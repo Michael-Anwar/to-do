@@ -102,7 +102,6 @@ Frontend Developer | React & TypeScript Enthusiast
 
 ## 📬 Contact
 
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- Email: mikelhfzy@gmail.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/michael-anwer-071489283/)
 
